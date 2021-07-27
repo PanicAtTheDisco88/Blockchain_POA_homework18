@@ -122,7 +122,7 @@ With both nodes up and running, the blockchain can be added to MyCrypto for test
 
     * You can click the `Check TX Status` button to update the status.
 
-   ![successful transaction](Images/txn_pending.png)
+   ![successful transaction](Images/txn-pending.png)
    
 ***NOTE: I have not been able to achieve a SUCCESS status on my txn yet...
 
